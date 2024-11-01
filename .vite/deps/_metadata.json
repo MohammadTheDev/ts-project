@@ -1,0 +1,44 @@
+{
+  "hash": "02039768",
+  "browserHash": "31458213",
+  "optimized": {
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "378bdcec",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "5c6b386f",
+      "needsInterop": true
+    },
+    "react-icons/ai": {
+      "src": "../../node_modules/react-icons/ai/index.esm.js",
+      "file": "react-icons_ai.js",
+      "fileHash": "7ffbcce9",
+      "needsInterop": false
+    },
+    "react-router-dom": {
+      "src": "../../node_modules/react-router-dom/dist/index.js",
+      "file": "react-router-dom.js",
+      "fileHash": "469e5cb9",
+      "needsInterop": false
+    },
+    "sweetalert": {
+      "src": "../../node_modules/sweetalert/dist/sweetalert.min.js",
+      "file": "sweetalert.js",
+      "fileHash": "6e801dc9",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "chunk-ST3U5LCA": {
+      "file": "chunk-ST3U5LCA.js"
+    },
+    "chunk-DFKQJ226": {
+      "file": "chunk-DFKQJ226.js"
+    }
+  }
+}
